@@ -1,0 +1,57 @@
+---
+title: "Lesson 6: Zuzana - Who owns her story?<br/>Ethical dilemma for researchers"
+author: "Judita Matyasova"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Introduction
+
+
+### What is this exercise about?
+This is an exercise focused on coping with a situation wherein a researcher records testimonies of Holocaust survivors without official agreement, and what might happen when a survivor dies, and his / her family wants all records.
+
+### What´s expected of you?
+- Read the story of Zuzana.
+- Watch the lecture about Czech Jewish teenagers in Denmark.
+- Check the Theresienstadt database of victims and the Holocaust.cz database.
+- Think about and discuss a solution - what can the researcher do when a family sues him / her?
+
+
+## Her story
+Zuzana Ledererová (née Böhmová) was born in 1924 and lived with her family in Jihlava, two hours from Prague, Czechoslovakia. In March 1939 - a few days after the Nazi occupation - her father died after a brutal interrogation by the Nazis. In April the same year, the fourteen-year-old Zuzana moved to Prague and lived in her aunt´s flat, and attended Zionist Youth Clubs for teenagers. All of them expected to go to Palestine and live there as Zionists in a kibbutz. But then the organizers from the Zionist Youth Clubs changed the plan for security reasons.  
+
+In October 1939, Zuzana went to Denmark together with 80 other Czech Jewish teens. The local organization **Women´s League for Peace and Freedom** (Kvindernes Internationale Liga for Fred og Frihed) offered help and found Danish foster families for these Czech Jewish teenagers. After four years in Denmark, Zuzana and her future husband (also Czech) Arnost Lederer escaped in 1943 to Sweden. When the war was over, they returned to Czechoslovakia.  
+
+In 2010, Czech researcher Judita Matyasova started to research forgotten Jewish stories. She wrote about Zuzana´s cousin, Helena Böhmová, who was killed in a concentration camp in Lublin, Poland. Soon after Judita met Zuzana for the first time and started a long-term co-operation, Judita decided to document Zuzana´s life story. They have been meeting regularly for two years.  
+
+Zuzana told Judita that she did not want to transfer trauma from the past to her children and grandchildren, and so she asked Judita to keep her personal secrets, especially those about her parents and siblings. Judita accepted this request and kept the aforementioned secrets. She published in articles or books only what Zuzana authorized. Judita told Zuzana many times that it would be good to have an agreement about this, but Zuzana never signed such an agreement, saying that she trusted her co-operator. When Zuzana died, her relatives contacted Judita and asked her to give them all records. Judita refused and explained that she had made that promise. The family threatened to sue Judita if she will not give them the records.  
+
+![](../images/Dilemma01_Photo01.jpg)  
+
+*Zuzana Böhmová during her stay in Denmark.*<br/>
+*Archive of Judita Matyasova.*  
+
+![](../images/Dilemma01_Photo02.jpg)  
+
+*Zuzana married Arnost Lederer. They lived in Prague, capital of Czechoslovakia.*<br>
+*Archive of Judita Matyasova.*  
+
+![](../images/Dilemma01_Photo03.jpg)  
+
+*Portrait of Helena Böhmová, cousin of Zuzana Ledererova.*<br>
+*Archive of Judita Matyasova.*  
+
+
+<font color="blue">
+**Task No. 1**  
+1) Watch the lecture of Judita Matyasova about her research of Czech Jewish teens in Denmark. You will find lecture [here](https://www.youtube.com/watch?v=5Ptc6-e2ngE).  
+2) Write an essay about this lecture, 1,800 characters.
+</font color>
+
+## Digital archives and databases of names and fates of holocaust survivors
+
