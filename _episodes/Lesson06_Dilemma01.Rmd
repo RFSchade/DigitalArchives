@@ -16,10 +16,10 @@ knitr::opts_chunk$set(echo = TRUE)
 This is an exercise focused on coping with a situation wherein a researcher records testimonies of Holocaust survivors without official agreement, and what might happen when a survivor dies, and his / her family wants all records.
 
 ### What´s expected of you?
-- Read the story of Zuzana.
-- Watch the lecture about Czech Jewish teenagers in Denmark.
-- Check the Theresienstadt database of victims and the Holocaust.cz database.
-- Think about and discuss a solution - what can the researcher do when a family sues him / her?
++ Read the story of Zuzana.
++ Watch the lecture about Czech Jewish teenagers in Denmark.
++ Check the Theresienstadt database of victims and the Holocaust.cz database.
++ Think about and discuss a solution - what can the researcher do when a family sues him / her?
 
 
 ## Her story
@@ -44,6 +44,7 @@ Zuzana told Judita that she did not want to transfer trauma from the past to her
 + Watch the lecture of Judita Matyasova about her research of Czech Jewish teens in Denmark. You will find the lecture [here](https://www.youtube.com/watch?v=5Ptc6-e2ngE).  
 + Write an essay about this lecture, 1,800 characters.
 </font color>
+
 
 ## Digital archives and databases of names and fates of holocaust survivors
 Every research project is like one big puzzle. You have to collect as many of those puzzle pieces as possible. There are main databases, which are essential for your start. Here you will find descriptions of digital archives and explanations of how to find a specific story and get more information.  
@@ -78,6 +79,8 @@ Emil Lederer died in Lublin. Find more about the Lublin concentration camp and w
 
 ![*Visual of Terezín database*](../images/Dilemma01_Photo05.jpg) 
 
+
+
 ## Recording testimonies and ethical dilemmas
 Every interview with a Holocaust survivor is different, and it is not easy to be prepared for emotional moments during such interviews. But there are specific rules for such interviews, created by the Oral History Association. Read about ethical rules during the recording of interviews [here](https://www.oralhistory.org/oha-statement-on-ethics/) and also about the [Oral History Agreement](https://www.ohs.org.uk/wordpress/wp-content/uploads/Oral-History-Participation-Agreement-BL-v2-6-2018.pdf).  
 
@@ -101,6 +104,8 @@ Another option?
 <br/>
 
 ![*Visual of an article about Judita´s research, published in 2. 4. 2011 in **Sjaellandske**.<br>Archive of Judita Matyasova*](../images/Dilemma01_Photo06.jpg) 
+
+
 
 # Related books and articles to Zuzana´s story
 

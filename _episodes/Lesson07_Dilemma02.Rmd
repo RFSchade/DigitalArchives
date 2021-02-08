@@ -1,0 +1,27 @@
+---
+title: "Lesson 7: Nemka - Tell me the truth about your mother!<br>Ethical dilemma for researchers"
+author: "Judita Matyasova"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Introduction
+
+
+### What is this exercise about?
+This is an exercise focused on coping with a situation resulting from a researcher discovering some very emotionally disturbing personal materials in archives and having to communicate them to a Holocaust survivor.  
+
+### What´s expected of you?
++ Read the story of Nemka.
++ Find more information about her family in digital archives and see the structure of the database.
++ Watch the documentary film "Forgotten Transport to Estonia" and write an essay about this transport.
++ Think about and discuss the ethical dilemma of the researcher.
+
+
+## Her story
+Anne Marie Steiner was born in 1924 to a wealthy Jewish family in the center of Prague, Czechoslovakia. She was a very athletic girl, but she also loved literature and cinema. Her nickname amongst her friends in the Zionist Youth Club was Nemka. In the club, they often discussed their collective future - they wanted to live in a kibbutz and enjoy community life. They all attended Zionist preparatory school in Prague and in the spring of 1939, they expected to go to Palestine on a trip organized by the youth club.   
+
